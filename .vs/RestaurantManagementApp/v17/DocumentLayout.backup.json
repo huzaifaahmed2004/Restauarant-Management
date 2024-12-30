@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|c:\\users\\huzai\\source\\repos\\restaurantmanagementapp\\restaurantmanagementapp\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|c:\\users\\huzai\\source\\repos\\restaurantmanagementapp\\restaurantmanagementapp\\inputdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\inputdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|c:\\users\\huzai\\source\\repos\\restaurantmanagementapp\\restaurantmanagementapp\\walkincustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\walkincustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\restaurantmanagementapp\\walkincustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\walkincustomerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|c:\\users\\huzai\\source\\repos\\restaurantmanagementapp\\restaurantmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|c:\\users\\huzai\\source\\repos\\restaurantmanagementapp\\restaurantmanagementapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|c:\\users\\huzai\\source\\repos\\restaurantmanagementapp\\restaurantmanagementapp\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\adminform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|c:\\users\\huzai\\source\\repos\\restaurantmanagementapp\\restaurantmanagementapp\\kitchenstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\kitchenstaffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|c:\\users\\huzai\\source\\repos\\restaurantmanagementapp\\restaurantmanagementapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\restaurantmanagementapp\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\restaurantmanagementapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C9EFE3E-10CE-4537-9977-5F0DA1046C69}|RestaurantManagementApp\\RestaurantManagementApp.csproj|solutionrelative:restaurantmanagementapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "database.cs",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\database.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\database.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\database.cs",
+              "RelativeToolTip": "RestaurantManagementApp\\database.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAADwv2oAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:18:57.741Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\AdminForm.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\AdminForm.cs",
+              "RelativeToolTip": "RestaurantManagementApp\\AdminForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:51:27.847Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\CashierForm.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\CashierForm.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\CashierForm.cs [Design]*",
+              "RelativeToolTip": "RestaurantManagementApp\\CashierForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:56:12.641Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InputDialog.cs",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\InputDialog.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\InputDialog.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\InputDialog.cs",
+              "RelativeToolTip": "RestaurantManagementApp\\InputDialog.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:55:49.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\Program.cs",
+              "RelativeToolTip": "RestaurantManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:51:56.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalkInCustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\WalkInCustomerForm.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\WalkInCustomerForm.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\WalkInCustomerForm.cs",
+              "RelativeToolTip": "RestaurantManagementApp\\WalkInCustomerForm.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAASwJwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:12:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WalkInCustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\WalkInCustomerForm.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\WalkInCustomerForm.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\WalkInCustomerForm.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementApp\\WalkInCustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:45:35.473Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\AdminForm.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\AdminForm.Designer.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\AdminForm.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementApp\\AdminForm.Designer.cs",
+              "ViewState": "AgIAAOMEAAAAAAAAAAApwPMEAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T13:35:43.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KitchenStaffForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\KitchenStaffForm.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\KitchenStaffForm.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\KitchenStaffForm.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementApp\\KitchenStaffForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:05:33.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoadingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\LoadingForm.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\LoadingForm.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementApp\\LoadingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:58:10.344Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\Login.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementApp\\Login.cs",
+              "ToolTip": "C:\\Users\\huzai\\source\\repos\\RestaurantManagementApp\\RestaurantManagementApp\\Login.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementApp\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T12:54:52.288Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
